@@ -1,0 +1,19 @@
+# 2. Will develop this project as a github project so I can evaluate my decisions later
+
+Date: 2025-01-11
+
+## Status
+
+Accepted
+
+## Context
+
+The issue motivating this decision, and any context that influences or constrains the decision.
+
+## Decision
+
+The change that we're proposing or have agreed to implement.
+
+## Consequences
+
+What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
