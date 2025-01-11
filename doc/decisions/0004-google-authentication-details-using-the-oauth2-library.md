@@ -1,4 +1,4 @@
-# 4. Will use Conbra Config to persist my Google authentication details using the oauth2 library
+# 4. Will persist my Google authentication details using the oauth2 library
 
 Date: 2025-01-11
 
